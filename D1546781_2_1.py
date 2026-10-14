@@ -1,5 +1,5 @@
-A = int(input())
-B = int(input())
+A = int(input("A="))
+B = int(input("B="))
 
 if (A != 0 and A != 1) or (B != 0 and B != 1):
     print("輸入錯誤")
